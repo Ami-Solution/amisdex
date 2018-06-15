@@ -33,5 +33,5 @@ We welcome contributions from the community since its powered by the ethereum to
 AmisDEX currently interfaces with EtherDelta's original smart contract which allows AmisDEX users to trade utilizing its volume. However, this means that the trading fees still goes back to them while developmental costs comes entirely out of AmisDEX pockets. 
  
 
-# What is the Roadmap for voBits?
+# What is the Roadmap for AmisDEX ?
 The AmisDEX Roadmap is maintained at https://ami-solution.github.io/vobits/about/
