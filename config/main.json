@@ -998,5 +998,5 @@
     { "addr": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d", "name": "CEL", "decimals": 4 },
     { "addr": "0xD84958Efa6fE4e6F29457917a9aB1bBc1b542995", "name": "OCG", "decimals": 9 }
   ],
-  "defaultPair": { "token": "EOS", "base": "ETH" }
+  "defaultPair": { "token": "AMIS", "base": "ETH" }
 }
