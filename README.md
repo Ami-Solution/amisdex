@@ -1,7 +1,7 @@
-# <img src="https://ami-solution.github.io/vobits/images/title.png"/>
+# <img src="https://github.com/amis-erc20/amisdex.github.io/blob/master/images/AMIS-logo.png"/>
 Ethereum Token Decentralized exchange community.
 
-[![Follow us on Twitter](https://img.shields.io/badge/follow-Twitter-blue.svg)](https://twitter.com/voBitsOfficial)
+[![Follow us on Twitter](https://img.shields.io/badge/follow-Twitter-blue.svg)](https://twitter.com/AMIS_ERC20)
 [![Build Status](https://travis-ci.org/voBits/vobits.github.io.svg?branch=master)](https://travis-ci.org/voBits/vobits.github.io)
 
 
@@ -9,7 +9,7 @@ Ethereum Token Decentralized exchange community.
 <a href="https://plasnerd.github.io/PEHTML/" target="blank"><img src="https://img.shields.io/badge/built%20with-PEHTML%20(v2)-295596.svg"></a>
 <a href="https://plasnerd.github.io/Framework.js/" target="blank"><img src="https://img.shields.io/badge/built%20in-Framework.js%20(r1)-00A185.svg"></a>
 
-voBits is an Ethereum Token Decentralized exchange community with ERC20/233 support, and including new tokens from airdrops/bounties/ICOs with liquidity support from its community via mining.
+AmisDEX is an Ethereum Token Decentralized exchange community with ERC20/233 support, and including new tokens from airdrops/bounties/ICOs with liquidity support from its community via mining.
 
 
 # What is AmisDEX?
