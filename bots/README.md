@@ -1,6 +1,6 @@
-# voBits bot sample code
+# AmisDEX bot sample code
 
-For API documentation, see https://github.com/voBits/vobits.github.io/tree/master/docs.
+For API documentation, see https://github.com/ami-solution/vobits/tree/master/docs.
 
 Each language has its own subfolder. In general, each subfolder has two example bots:
 
