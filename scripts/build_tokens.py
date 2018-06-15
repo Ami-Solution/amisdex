@@ -60,7 +60,7 @@ def inject_tokens(config_filename, tokens):
 
     return prefix + formatted_tokens + suffix
 
-CONFIG_FILE = "config/main.json"
+CONFIG_FILE = "vobits/config/main.json"
 ETH_TOKEN = { "addr": "0x0000000000000000000000000000000000000000", "name": "ETH", "decimals": 18 }
 def main(tokenbase_path):
     tokens_dir = path.join(tokenbase_path, "tokens")
