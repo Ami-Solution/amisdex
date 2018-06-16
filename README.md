@@ -20,7 +20,7 @@ The purpose of AmisDEX is to have a community driven token ecosystem that is sel
 
 
 # How does AmisDEX Work?
-AmisDEX currently interoperates with EtherDelta's original smart contract (described in more detail [here](https://www.reddit.com/r/EtherDelta/comments/6kdiyl/smart_contract_overview/)) which allows voBits users to trade utilizing its volume. But soon we will migrate to our own  voBitsExchange wallet smart contract which will  have more function and ability to purchase ether directly while on the decentralized trading platform using integrated payment gateway for transaction.
+AmisDEX currently interoperates with EtherDelta's original smart contract (described in more detail [here](https://www.reddit.com/r/EtherDelta/comments/6kdiyl/smart_contract_overview/)) which allows AmisDEX users to trade utilizing its volume. But soon we will migrate to our own  AmisDEX wallet smart contract which will  have more function and ability to purchase ether directly while on the decentralized trading platform using integrated payment gateway for transaction.
 AMIS (AMIS) Utility Token [0x949bed886c739f1a3273629b3320db0c5024c719](https://etherscan.io/token/0x949bed886c739f1a3273629b3320db0c5024c719) will be used to fuel Exchange liquidity via mining as this will help to provide trading liquidity for every user of our platform.
 AMIS (AMIS)Token Summary
 Total Supply:	20,000,000 
