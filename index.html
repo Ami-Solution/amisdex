@@ -48,8 +48,8 @@
           	<li><a href="/vobits/about/index.html"><i class="fa fa-info-circle"></i> About AmisDEX</a></li>
             <li><a href="/vobits/etherTrade/market.html"><i class="fa fa-info-circle"></i> BUY USD/ETH</a></li>
             <li><a href="https://github.com/ami-solution/vobits/issues/new"><i class="fa fa-info-circle"></i> Listing</a></li>
-            <li style="display: none;" class="dropdown" id="helpDropdown"></li>
-	    <li class="dropdown" id="helpDropdown"></li>
+            <li class="chat-button"><a href="javascript:;" class="js-gitter-toggle-chat-button">Chat</a></li>
+            <li class="dropdown" id="helpDropdown"></li>
             <li class="dropdown" id="tokenGuidesDropdown"></li>
             <li class="dropdown" id="connection"></li>
             <li class="dropdown" id="languages"></li>
@@ -243,6 +243,12 @@
       twttr.ready(function () {
         embedTwitter('dark')
       })
+    </script>
+    <script>
+      ((window.gitter = {}).chat = {}).options = {
+        room: 'amis-erc20/Lobby',
+        activationElement: true
+      };
     </script>
   </body>
 </html>
