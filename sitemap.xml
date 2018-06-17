@@ -4,13 +4,13 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
     http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd/sitemap.xsd">
  <url>
-  <loc>https://ami-solution.github.io/vobis/</loc>
+  <loc>https://ami-solution.github.io/vobits/</loc>
  </url>
  <url>
-  <loc>https://ami-solution.github.io/vobis/about/</loc>
+  <loc>https://ami-solution.github.io/vobits/about/</loc>
  </url>
  <url>
-  <loc>https://ami-solution.github.io/vobis/#!/trade/0ED-ETH</loc>
+  <loc>https://ami-solution.github.io/vobits/#!/trade/0ED-ETH</loc>
  </url>
  <url>
   <loc>https://ami-solution.github.io/vobis/#!/trade/10MT-ETH</loc>
@@ -28,7 +28,7 @@
   <loc>https://ami-solution.github.io/vobis/#!/trade/1LIFE-ETH</loc>
  </url>
  <url>
-  <loc>https://ami-solution.github.io/vobis/#!/trade/1ST-ETH</loc>
+  <loc>https://ami-solution.github.io/vobits/#!/trade/1ST-ETH</loc>
  </url>
  <url>
   <loc>https://ami-solution.github.io/vobis/#!/trade/1WO-ETH</loc>
@@ -97,7 +97,7 @@
   <loc>https://ami-solution.github.io/vobis/#!/trade/ALIEF-ETH</loc>
  </url>
  <url>
-  <loc>https://ami-solution.github.io/vobis/#!/trade/ALIS-ETH</loc>
+  <loc>https://ami-solution.github.io/vobits/#!/trade/ALIS-ETH</loc>
  </url>
  <url>
   <loc>https://ami-solution.github.io/vobis/#!/trade/ALLY-ETH</loc>
@@ -112,7 +112,7 @@
   <loc>https://ami-solution.github.io/vobis/#!/trade/AMB-ETH</loc>
  </url>
  <url>
-  <loc>https://ami-solution.github.io/vobis/#!/trade/AMIS-ETH</loc>
+  <loc>https://ami-solution.github.io/vobits/#!/trade/AMIS-ETH</loc>
  </url>
  <url>
   <loc>https://ami-solution.github.io/vobis/#!/trade/AMM-ETH</loc>
