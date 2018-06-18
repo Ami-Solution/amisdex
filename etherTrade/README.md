@@ -3,7 +3,7 @@
 # ShapeShift-Skeleton for AmisDEX integration
 
 To Run: </br>
-  git clone https://github.com/ami-solution/vobits/ShapeShift.git </br>
+  git clone https://github.com/ami-solution/amisdex/ShapeShift.git </br>
   cd ShapeShift-Skeleton </br>
   npm install </br>
   bower install </br>
