@@ -34,4 +34,4 @@ AmisDEX currently interfaces with EtherDelta's original smart contract which all
  
 
 # What is the Roadmap for AmisDEX ?
-The AmisDEX Roadmap is maintained at https://ami-solution.github.io/vobits/about/
+The AmisDEX Roadmap is maintained at https://ami-solution.github.io/amisdex/about/
